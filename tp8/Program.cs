@@ -12,6 +12,7 @@ internal class Program
         for(int i=0;i<NumeroDeTareas;i++){
             pendientes.Add(new Tarea(i+1,descripciones[i],(new Random()).Next(1,11)));
         }
+        HorasTrabajadas(realizadas);
     }
 
     void MostrarTarea(Tarea tarea){
@@ -54,6 +55,15 @@ void BuscarPorDescripcion(List<Tarea> Pendientes,List<Tarea> realizadas){
         }
     }
 
+}
+static void HorasTrabajadas(List<Tarea>realizadas){
+    int horas=0;
+    foreach(Tarea tarea in realizadas){
+        horas = horas + tarea.duracion;
+    }
+    var archivo = new StreamWriter("HorasTrabajadas.txt");
+    archivo.WriteLine("La cantidad de horas trabajadas es "+ horas);
+    archivo.Close();
 }
 }
 
