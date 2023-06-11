@@ -1,0 +1,15 @@
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\bin\Debug\net7.0\tp8Punto2.exe
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\bin\Debug\net7.0\tp8Punto2.deps.json
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\bin\Debug\net7.0\tp8Punto2.runtimeconfig.json
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\bin\Debug\net7.0\tp8Punto2.dll
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\bin\Debug\net7.0\tp8Punto2.pdb
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.csproj.AssemblyReference.cache
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.AssemblyInfoInputs.cache
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.AssemblyInfo.cs
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.csproj.CoreCompileInputs.cache
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.dll
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\refint\tp8Punto2.dll
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.pdb
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\tp8Punto2.genruntimeconfig.cache
+C:\Taller1 repositorio\tl1_tp8_2023-IvanDMir\tp8Punto2\obj\Debug\net7.0\ref\tp8Punto2.dll
